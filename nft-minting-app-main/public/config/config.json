@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2f91F1749b7D4a584eF42903A6Eb8FDEF0D277FA",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x2f91f1749b7d4a584ef42903a6eb8fdef0d277fa",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Loose Kiddonft",
+  "SYMBOL": "LKCNFT",
+  "MAX_SUPPLY": 3500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/loose-kiddonft",
+  "SHOW_BACKGROUND": true
+}
